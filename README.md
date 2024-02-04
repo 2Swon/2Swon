@@ -1,9 +1,12 @@
  <div align=center>
 
-![slice](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&text=Swon2&)
+![slice](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&text=SeongWon2&)
 
 ## Introduction 🙌
-이성원
+
+Hi, I'm Seongwon!
+
+I'm passionate about technology and always eager to learn new things.
 
 ## Used tools & Skill 👀
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
