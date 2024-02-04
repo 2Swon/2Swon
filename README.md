@@ -22,4 +22,7 @@
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)](https://www.notion.so/SeongWon-Lee-a0d430c50cbb42ac80c28b6a2a68af2f)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@tjddnjs0307)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=2Swon&count_private=true&show_icons=true&theme=solarized-light)
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=tjddnjs0307)](https://velog.io/@tjddnjs0307)
 </div>
