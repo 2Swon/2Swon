@@ -29,6 +29,6 @@ I'm passionate about technology and always eager to learn new things.
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@tjddnjs0307)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=2Swon&count_private=true&show_icons=true&theme=solarized-light)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2Swon&layout=compact&hide=jupyter%20notebook,css,scss,less)](https://github.com/anuraghazra/github-readme-stats)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=tjddnjs0307)](https://velog.io/@tjddnjs0307)
 </div>
