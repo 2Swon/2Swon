@@ -1,5 +1,7 @@
-![slice](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&text=SeongWon&)
 <div align=center>
+
+![slice](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&text=SeongWon&)
+  
 ## Introduction 🙌
 
 Hi, I'm Seongwon!
