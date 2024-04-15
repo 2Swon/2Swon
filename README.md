@@ -1,4 +1,4 @@
-<div align=center>
+
 
 ![slice](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&text=SeongWon&)
   
@@ -9,6 +9,8 @@ Hi, I'm Seongwon!
 I'm passionate about technology and always eager to learn new things.
 
 ## Used tools & Skill 👀
+
+<div align=center>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/>
@@ -19,7 +21,7 @@ I'm passionate about technology and always eager to learn new things.
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
-
+</div>
 
 ## 🚀 Backend Developer
 - ⏳ Opstech Backend Developer: 24.03 ~
@@ -43,7 +45,8 @@ I'm passionate about technology and always eager to learn new things.
 |  | ✔️ [AppOrganizer](https://github.com/rimgosu/AppOrganizer)  |  | [java/web/sql](https://github.com/rimgosu/Lectures) | [velog](https://github.com/rimgosu/velog)  |
 |  |  |  | [OpenCV](https://github.com/rimgosu/OpenCV) |  |
 
-
+<div align=center>
+  
 ## About me ✨
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)](https://www.notion.so/SeongWon-Lee-a0d430c50cbb42ac80c28b6a2a68af2f)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@tjddnjs0307)
