@@ -29,7 +29,7 @@ I'm passionate about technology and always eager to learn new things.
 |  | ✔️ [AppOrganizer](https://github.com/rimgosu/AppOrganizer)  |  | [java/web/sql](https://github.com/rimgosu/Lectures) | [velog](https://github.com/rimgosu/velog)  |
 |  |  |  | [OpenCV](https://github.com/rimgosu/OpenCV) |  |
 
-<div align=center>
+
   
 ## About me ✨
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)](https://www.notion.so/SeongWon-Lee-a0d430c50cbb42ac80c28b6a2a68af2f)
@@ -38,4 +38,4 @@ I'm passionate about technology and always eager to learn new things.
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=2Swon&count_private=true&show_icons=true&theme=solarized-light)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2Swon&layout=compact&hide=jupyter%20notebook,css,scss,less,html)](https://github.com/anuraghazra/github-readme-stats)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=tjddnjs0307)](https://velog.io/@tjddnjs0307)
-</div>
+
