@@ -10,32 +10,16 @@ I'm passionate about technology and always eager to learn new things.
 
 ## Used tools & Skill 👀
 
-<div align=center>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
-</div>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/><img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white"/><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white"/><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black"/><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
 
-## 🚀 Backend Developer
-- ⏳ Opstech Backend Developer: 24.03 ~
+## 🚀 Developer
 - ✔️ skt fly ai challengers: 23.12 ~ 24.02 
-- ✔️ 인공지능사관학교: 23.06 ~ 23.12
-- ✔️ 한양대학교 기계공학과: 12.03 ~ 19.02
-
-
-<img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"><img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">  
+- ✔️ (주)키센스: 23.03 ~ 23.07
+- ✔️ 청운대학교 컴퓨터공학과: 19.03 ~ 25.02
 
 
 ## 📋 Record
 - 🏆 [SKT Fly AI Challengers Team Project - Greedot 1st](https://www.trendw.kr/news/articleView.html?idxno=10603)
-- 🏆 [Battlegrounds Lobby Legends - Magic of Azeroth 1st](https://esports.gg/news/hearthstone/rimgosu-wins-battlegrounds-lobby-legends/)
 
 | SKT Fly AI 🦋 | 개인프로젝트 🧑 | 팀프로젝트 👨‍👦‍👦 | 인공지능사관학교 🏫 | 개인공부 💻 |
 | ---- | ---- | ---- | ---- | ---- |
