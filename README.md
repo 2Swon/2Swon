@@ -25,7 +25,7 @@ I'm passionate about technology and always eager to learn new things.
 | ---- | ---- | ---- | ---- |
 | [✔️ sk-fly-ai-record](https://github.com/2Swon/Skt-Fly-ai-challenger) | [✔️ Mosaic-realtime](https://github.com/2Swon/mosaic_realtime) | [🏆 Greedot](https://github.com/2Swon/SKT-greedot) | [✔️ coding-test](https://github.com/2Swon/CodingTest_study) |
 |[Azure_static_webapp](https://github.com/2Swon/Azure_static_webapp) | [✔️ mango-detection](https://github.com/2Swon/object-detection-customdataset) | [✔️ stopmotion-AI](https://github.com/2Swon/stopmotion_AI) | [MLOps_serving](https://github.com/2Swon/MLOps_serving) |
-| ---- | [✔️ PHP-board](https://github.com/2Swon/php_board) | [✔️ HowLOLwell](https://github.com/2Swon/LOL_info_frontproject) | ---- |
+|  | [✔️ PHP-board](https://github.com/2Swon/php_board) | [✔️ HowLOLwell](https://github.com/2Swon/LOL_info_frontproject) | [velog](https://velog.io/@tjddnjs0307/posts) |
 
 
 
