@@ -21,17 +21,17 @@ I'm passionate about technology and always eager to learn new things.
 ## 📋 Record
 - 🏆 [SKT Fly AI Challengers Team Project - Greedot 1st](https://www.trendw.kr/news/articleView.html?idxno=10603)
 
-| SKT Fly AI 🦋 | 개인프로젝트 🧑 | 팀프로젝트 👨‍👦‍👦 | 인공지능사관학교 🏫 | 개인공부 💻 |
-| ---- | ---- | ---- | ---- | ---- |
-| ✔️ [sk-fly-ai-record](https://github.com/rimgosu/sk-fly-ai-record)  | ⏳ [CBT Hub](https://github.com/orgs/cbt-hub/repositories)  | 🏆 [Greedot](https://github.com/GreeDot/greedot) | [Spring Study](https://github.com/rimgosu/SpringStudy) | [JPA Study](https://github.com/rimgosu/JpaStudy) |
-| [Flutter Study](https://github.com/rimgosu/FlutterStudy) | ✔️ [AutoEditor](https://github.com/rimgosu/autoeditor)  | ✔️ [SimKoong](https://github.com/rimgosu/SimKoong)  | [DeepLearning](https://github.com/rimgosu/DeepLearning) | [Algorithm](https://github.com/rimgosu/Algorithm) |
-| [FastAPI Study](https://github.com/rimgosu/FastApiStudy) | ✔️ [AutoAttendance](https://github.com/rimgosu/AutoAttendance)  | ✔️ [FriendFit](https://github.com/rimgosu/FriendFit)   | [html-css-javascript](https://github.com/rimgosu/html-css-javascript) | [Obsidian-Vault](https://github.com/rimgosu/Obsidian-Vault)  |
+| SKT Fly AI 🦋 | 개인프로젝트 🧑 | 팀프로젝트 👨‍👦‍👦 | 개인공부 💻 |
+| ---- | ---- | ---- | ---- |
+| ✔️ [sk-fly-ai-record](https://github.com/rimgosu/sk-fly-ai-record)  | ⏳ [CBT Hub](https://github.com/orgs/cbt-hub/repositories)  | 🏆 [Greedot](https://github.com/GreeDot/greedot) | [JPA Study](https://github.com/rimgosu/JpaStudy) |
+| [Flutter Study](https://github.com/rimgosu/FlutterStudy) | ✔️ [AutoEditor](https://github.com/rimgosu/autoeditor)  | [Algorithm](https://github.com/rimgosu/Algorithm) |
+| [FastAPI Study](https://github.com/rimgosu/FastApiStudy) | ✔️ [AutoAttendance](https://github.com/rimgosu/AutoAttendance)  | [html-css-javascript](https://github.com/rimgosu/html-css-javascript) | [Obsidian-Vault](https://github.com/rimgosu/Obsidian-Vault)  |
 |  | ✔️ [AppOrganizer](https://github.com/rimgosu/AppOrganizer)  |  | [java/web/sql](https://github.com/rimgosu/Lectures) | [velog](https://github.com/rimgosu/velog)  |
 |  |  |  | [OpenCV](https://github.com/rimgosu/OpenCV) |  |
 
 
   
-## About me ✨
+## ✨ About me 
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)](https://www.notion.so/SeongWon-Lee-a0d430c50cbb42ac80c28b6a2a68af2f)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@tjddnjs0307)
 
