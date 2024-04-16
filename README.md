@@ -2,11 +2,10 @@
 
 ![slice](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&text=SeongWon&)
   
-## Introduction 🙌
-
-Hi, I'm Seongwon!
-
-I'm passionate about technology and always eager to learn new things.
+## Interest 🙌
+- **MLOps**
+- **Computer Vision**
+- **AI SaaS**
 
 ## Used tools & Skill 👀
 
