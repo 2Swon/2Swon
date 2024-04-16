@@ -23,11 +23,9 @@ I'm passionate about technology and always eager to learn new things.
 
 | SKT Fly AI 🦋 | 개인프로젝트 🧑 | 팀프로젝트 👨‍👦‍👦 | 개인공부 💻 |
 | ---- | ---- | ---- | ---- |
-| ✔️ [sk-fly-ai-record](https://github.com/rimgosu/sk-fly-ai-record)  | ⏳ [CBT Hub](https://github.com/orgs/cbt-hub/repositories)  | 🏆 [Greedot](https://github.com/GreeDot/greedot) | [JPA Study](https://github.com/rimgosu/JpaStudy) |
-| [Flutter Study](https://github.com/rimgosu/FlutterStudy) | ✔️ [AutoEditor](https://github.com/rimgosu/autoeditor)  | [Algorithm](https://github.com/rimgosu/Algorithm) |
-| [FastAPI Study](https://github.com/rimgosu/FastApiStudy) | ✔️ [AutoAttendance](https://github.com/rimgosu/AutoAttendance)  | [html-css-javascript](https://github.com/rimgosu/html-css-javascript) | [Obsidian-Vault](https://github.com/rimgosu/Obsidian-Vault)  |
-|  | ✔️ [AppOrganizer](https://github.com/rimgosu/AppOrganizer)  |  | [java/web/sql](https://github.com/rimgosu/Lectures) | [velog](https://github.com/rimgosu/velog)  |
-|  |  |  | [OpenCV](https://github.com/rimgosu/OpenCV) |  |
+| ---- | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
+
 
 
   
