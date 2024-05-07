@@ -4,8 +4,8 @@
   
 ## Interest 🙌
 - **MLOps**
-- **Computer Vision**
 - **AI SaaS**
+- **DevOps**
 
 ## Used tools & Skill 👀
 
