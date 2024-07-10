@@ -4,6 +4,7 @@
   
 ## Interest 🙌
 - **AI SaaS**
+- **MLOps**
 
 ## Used tools & Skill 👀
 
