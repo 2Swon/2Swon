@@ -3,9 +3,7 @@
 ![slice](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&text=SeongWon&)
   
 ## Interest 🙌
-- **MLOps**
 - **AI SaaS**
-- **DevOps**
 
 ## Used tools & Skill 👀
 
