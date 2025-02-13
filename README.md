@@ -23,8 +23,8 @@
 | 개인프로젝트 🧑 | 팀프로젝트 👨‍👦‍👦 | 개인공부 💻 |
 | ---- | ---- | ---- |
 | [✔️ Mosaic-realtime](https://github.com/2Swon/mosaic_realtime) | [🏆 Greedot](https://github.com/2Swon/SKT-greedot) | [✔️ coding-test](https://github.com/2Swon/CodingTest_study) |
-| [✔️ mango-detection](https://github.com/2Swon/object-detection-customdataset) | [✔️ stopmotion-AI](https://github.com/2Swon/stopmotion_AI) | [MLOps_serving](https://github.com/2Swon/MLOps_serving) |
-|  | [✔️ PHP-board](https://github.com/2Swon/php_board) | [✔️ HowLOLwell](https://github.com/2Swon/LOL_info_frontproject) | [velog](https://velog.io/@tjddnjs0307/posts) |
+| ---- | [✔️ stopmotion-AI](https://github.com/2Swon/stopmotion_AI) | ---- |
+|  | ---- | ---- | [velog](https://velog.io/@tjddnjs0307/posts) |
 
 
 
